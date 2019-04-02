@@ -187,4 +187,8 @@ public class SolrClient001 {
             e.printStackTrace();
         }
     }
+
+    public void demoadd(){
+        System.out.println("demo1分支新增方法");
+    }
 }
